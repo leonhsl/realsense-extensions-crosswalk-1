@@ -1,0 +1,9 @@
+{
+  "name": "realsense-extensions-sample",
+  "private": true,
+  "dependencies": {
+    "iron-icon": "PolymerElements/iron-icon#^1.0.0",
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "ignore": []
+}
